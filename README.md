@@ -1,4 +1,4 @@
-# Project Title: Laboratorium GK - AFI
+# Project Title: Laboratory GK - AFI
 
 ## Overview
 This project demonstrates the implementation of a 3D interactive scene using OpenGL and GLUT. It includes animated objects such as a cube, torus, and teapot, with transformations and rotations applied to showcase fundamental graphics programming concepts.
